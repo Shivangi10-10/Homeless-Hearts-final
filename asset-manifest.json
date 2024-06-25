@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Shivangi10-10/Homeless-Hearts-final/static/css/main.45ee3831.css",
+    "main.js": "/Shivangi10-10/Homeless-Hearts-final/static/js/main.8b00c0f0.js",
+    "static/js/453.6dad7fd4.chunk.js": "/Shivangi10-10/Homeless-Hearts-final/static/js/453.6dad7fd4.chunk.js",
+    "static/media/home_image.png": "/Shivangi10-10/Homeless-Hearts-final/static/media/home_image.e74124a20be97d7a379a.png",
+    "static/media/cat_doodle.png": "/Shivangi10-10/Homeless-Hearts-final/static/media/cat_doodle.97bdfb9acefd9bdc819b.png",
+    "index.html": "/Shivangi10-10/Homeless-Hearts-final/index.html",
+    "main.45ee3831.css.map": "/Shivangi10-10/Homeless-Hearts-final/static/css/main.45ee3831.css.map",
+    "main.8b00c0f0.js.map": "/Shivangi10-10/Homeless-Hearts-final/static/js/main.8b00c0f0.js.map",
+    "453.6dad7fd4.chunk.js.map": "/Shivangi10-10/Homeless-Hearts-final/static/js/453.6dad7fd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ee3831.css",
+    "static/js/main.8b00c0f0.js"
+  ]
+}
