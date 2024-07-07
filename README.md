@@ -49,7 +49,7 @@ Install dependencies and run the application locally:
 npm install
 cd "node server"
 npm install
-nodemon server.js or node server.js 
+nodemon index.js or node index.js 
 cd ..
 npm start
 ```
