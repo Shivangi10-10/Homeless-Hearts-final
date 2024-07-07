@@ -54,10 +54,6 @@ cd ..
 npm start
 ```
 
-Here's the updated future scope section for "Homeless Hearts":
-
----
-
 ## Future Scope
 
 1. **Mobile App Development**: Extend the platform with a mobile app to increase accessibility for volunteers and donors on-the-go.
