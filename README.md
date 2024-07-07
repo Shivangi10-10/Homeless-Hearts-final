@@ -54,3 +54,29 @@ cd ..
 npm start
 ```
 
+Here's the updated future scope section for "Homeless Hearts":
+
+---
+
+## Future Scope
+
+1. **Mobile App Development**: Extend the platform with a mobile app to increase accessibility for volunteers and donors on-the-go.
+   
+2. **AI Integration**: Incorporate artificial intelligence for image recognition to help in identifying and cataloging stray animals more efficiently.
+   
+3. **Expanded Reporting Tools**: Develop more advanced analytics and reporting features for admins to monitor and predict trends in animal welfare needs.
+   
+4. **Partnership Opportunities**: Collaborate with more animal welfare organizations and veterinary services to expand the network and resources available through the portal.
+   
+5. **Interactive Map Features**: Implement GIS mapping for real-time tracking of strays and volunteer activities.
+   
+6. **Enhanced Volunteer Training**: Offer online training modules and certifications for volunteers through the portal to ensure better care and handling of animals.
+   
+7. **Community Forums**: Add forums and discussion boards to foster a community where users can share experiences, advice, and stories about stray animal care.
+   
+8. **Language Localization**: Adapt the portal for use in multiple languages to reach a wider audience and engage non-English speaking volunteers and donors.
+
+## Documentation
+
+A complete project report for the system with use case diagrams, web flow, relational diagrams, and more can be found here: [Homeless Hearts | Project Report](https://github.com/Shivangi10-10/Homeless-Hearts-final/blob/main/Homeless%20Hearts.pdf)
+
