@@ -1,7 +1,5 @@
 # Homeless Hearts - Enhancing Stray Animal Welfare
 
-Submission as an internship project for Indian Oil
-
 ## Overview
 
 **Homeless Hearts** - Enhancing Stray Animal Welfare
